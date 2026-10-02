@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette ResteFocus, alignée sur lib/core/theme.dart -->
+    <color name="rf_background">#0E0F1F</color>
+    <color name="rf_surface">#1A1C36</color>
+    <color name="rf_surface_high">#25284A</color>
+    <color name="rf_primary">#6C63FF</color>
+    <color name="rf_on_surface">#F2F2FA</color>
+    <color name="rf_on_surface_variant">#A5A7C6</color>
+    <color name="rf_error">#FF8A8A</color>
+</resources>

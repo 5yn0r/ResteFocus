@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MathGateTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/rf_background</item>
+        <item name="android:statusBarColor">@color/rf_background</item>
+        <item name="android:navigationBarColor">@color/rf_background</item>
+        <item name="android:colorAccent">@color/rf_primary</item>
+    </style>
+</resources>

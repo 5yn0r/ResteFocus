@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Même dégradé que AppColors.heroGradient (lib/core/theme.dart), pour que
+     le widget se sente comme un vrai morceau de ResteFocus. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:angle="315"
+        android:startColor="#6C63FF"
+        android:centerColor="#8F5CF6"
+        android:endColor="#B45CE6"
+        android:type="linear" />
+    <corners android:radius="24dp" />
+</shape>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResteFocus</string>
+    <string name="accessibility_service_description">ResteFocus détecte l\'ouverture des apps bloquées pendant une session de focus pour afficher le Math Gate.</string>
+    <string name="math_gate_title">%1$s est bloquée</string>
+    <string name="math_gate_subtitle">Résous ce problème pour l\'ouvrir %1$d minutes.</string>
+    <string name="math_gate_hint">Ta réponse</string>
+    <string name="math_gate_submit">Débloquer</string>
+    <string name="math_gate_leave">Je retourne travailler</string>
+    <string name="math_gate_invalid">Entre un nombre entier.</string>
+    <string name="math_gate_wrong">Raté. Encore %1$d essai(s) avant une pause.</string>
+    <string name="math_gate_cooldown">Trop d\'erreurs. Pause : %1$02d:%2$02d</string>
+    <string name="widget_session_active">Session en cours</string>
+    <string name="widget_ready">Prêt à te concentrer</string>
+</resources>
